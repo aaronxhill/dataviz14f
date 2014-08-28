@@ -1,0 +1,17 @@
+Assignment 1
+
+1. Familiarize yourself with the metadata for "titanic.txt" by reviewing "titanic info.txt" 
+
+2. Read titanic.txt into R (starter coder provided: "titanic.R"). 
+
+3. Using ONLY R, answer the following questions (don't use any other software or hand calculations):
+
+	a. How old was the oldest passenger on board? 
+
+	b. What percentage of passengers was female? 
+
+	c. What is the average fare paid? 
+
+	d. How many passengers were male? 
+
+	e. What was the rate of survival? 
