@@ -1,0 +1,1 @@
+Course repository for Data Visualization course at The New School, Fall 2014
